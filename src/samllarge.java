@@ -39,6 +39,9 @@ public class samllarge {
             } else {
                 System.out.println("The smallest number is: " + num1);
             }
+        } else{
+            System.out.println("The numbers are equal.");
         }
+
     }
 }
